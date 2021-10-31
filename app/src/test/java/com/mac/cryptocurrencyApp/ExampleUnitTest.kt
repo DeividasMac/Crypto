@@ -1,4 +1,4 @@
-package com.plcoding.cryptocurrencyappyt
+package com.mac.cryptocurrencyApp
 
 import org.junit.Test
 
